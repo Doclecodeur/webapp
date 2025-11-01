@@ -27,16 +27,13 @@ Voisins Solidaires est un projet universitaire développé dans le cadre du DU D
 •	Télécharger le dossier du projet et ouvrir dans VS Code 
 •	Lancer l’application dans VS Code avec la commande streamlit run voisins_solidaires.py
 •	Lien direct pour lancer l’appli : Streamlit ouvre l’application automatiquement dans le navigateur (http://localhost:8501)
-6.	Captures d’écrans d’illustrations
- 
- 
-7.	Auteurs
+6.	Auteurs
 •	WilGuy DOISY
 •	Fadimatou VEPOUYOUM
 Projet universitaire – Sorbonne Université (DU Data Analytics)
-8.	Licence
+7.	Licence
 Projet universitaire à usage non commercial.
-9.	 Améliorations futures possibles
+8.	 Améliorations futures possibles
 L'application Voisins Solidaires constitue une base solide, mais plusieurs axes de développement pourraient enrichir l'expérience utilisateur et étendre ses fonctionnalités.
 a. Géolocalisation et Cartographie
 Actuellement, l'application utilise l'adresse textuelle pour le profil utilisateur, mais ne l'exploite pas pour la recherche.
