@@ -25,7 +25,7 @@ Voisins Solidaires est un projet universitaire développé dans le cadre du DU D
 •	Télécharger et installer Visual Studio Code
 •	Installer l’extension Python sur VS Code
 •	Télécharger le dossier du projet et ouvrir dans VS Code 
-•	Lancer l’application dans VS Code avec la commande streamlit run voisins_solidaires.py
+•	Lancer l’application dans VS Code avec la commande streamlit run voisins_sol.py
 •	Lien direct pour lancer l’appli : Streamlit ouvre l’application automatiquement dans le navigateur (http://localhost:8501)
 6.	Auteurs
 •	WilGuy DOISY
